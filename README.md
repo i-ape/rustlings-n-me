@@ -1,3 +1,9 @@
+# rustlings-n-me
+# my progress with the crab
+	🦀
+complete :)
+
+
 # Exercise to Book Chapter mapping
 
 | Exercise               | Book Chapter        |
