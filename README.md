@@ -1,13 +1,7 @@
-# rustlings-n-me
-# my progress with the crab
-	
-complete :)
 ![🦀](photo_2023-06-27_07-49-53.jpg)
 
 
-
-
-
+[video assistance from chris biscardi](https://www.youtube.com/watch?v=G3Vr-yswlaU)
 
 # Exercise to Book Chapter mapping
 
