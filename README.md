@@ -2,6 +2,11 @@
 # my progress with the crab
 	🦀
 complete :)
+![crab](photo_2023-06-27_07-49-53.jpg)
+
+
+
+
 
 
 # Exercise to Book Chapter mapping
